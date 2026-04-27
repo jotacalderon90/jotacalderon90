@@ -1,4 +1,8 @@
-# Trascender
+# Acerca de mí
+
+Especialista en Ciberseguridad y Hacker Ético con más de 15 años de experiencia en desarrollo de software, integración de sistemas y optimización de plataformas empresariales, participando en proyectos de alta criticidad tanto en el sector público como privado en Chile. Mi trayectoria abarca desde el desarrollo y mantención de soluciones basadas en IBM Lotus Domino, Java J2EE y PHP, hasta arquitecturas modernas con microservicios, Node.js, Spring Boot, Angular y contenedores Docker. He trabajado en organismos como la Contraloría General de la República, DGAC, Ministerio de Educación y diversas compañías del sector financiero, seguros y telecomunicaciones, aportando en la automatización de procesos, workflows, firma digital, autenticación, reportería y optimización de servicios, siempre con foco en la estabilidad, seguridad y eficiencia operativa.
+
+# Proyecto Trascender
 
 ### Un estándar para construir software basado en capacidades universales
 
