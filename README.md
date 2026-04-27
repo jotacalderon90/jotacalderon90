@@ -32,10 +32,6 @@ En lugar de construir sistemas por capas técnicas, Trascender propone construir
 
 Cada capacidad se representa como un módulo independiente:
 
-```
-cf.*
-```
-
 Ejemplos:
 
 * `cf.archivospublicos` → almacenamiento público
@@ -54,7 +50,7 @@ Ejemplos:
 
 ## Arquitectura
 
-Cada `cf.*` es:
+Cada código fuente es:
 
 * ✅ Un sistema independiente
 * ✅ Desplegable de forma autónoma
