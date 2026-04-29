@@ -42,13 +42,14 @@ Ejemplos:
 * `cf.account` → identidad y autenticación
 * `cf.archivosprivados` → almacenamiento protegido
 * `cf.database` → acceso y gestión de datos
-* `cf.errores` → monitoreo y trazabilidad
+* `cf.log` → gestión de actividades para auditorías
+* `cf.errores` → gestión de errores internos de sistemas
+* `cf.chat` → comunicación en tiempo real
 * `cf.mailing` → envío de correos
 * `cf.push` → notificaciones
-* `cf.chat` → comunicación en tiempo real
 * `cf.cms` → gestión de contenido
-* `cf.blog` → publicación
-* `cf.ecommerce` → lógica comercial
+* `cf.blog` → publicación de información
+* `cf.ecommerce` → publicación de productos
 
 ---
 
@@ -93,9 +94,10 @@ Trascender **no depende de un stack específico**.
 
 Puede ser implementado en:
 
-* Node.js (Express, NestJS, etc.)
-* Java (Spring Boot)
-* PHP (Laravel)
+* Node.js (Express, NestJS, ...)
+* Java (Spring Boot, ...)
+* Python (Django, Flask, ...)
+* PHP (Laravel, ...)
 * u otros
 
 > **No importa cómo lo programes, importa cómo lo piensas.**
@@ -125,20 +127,20 @@ Actualmente:
 
 * Los módulos están desarrollados y en uso real
 * Serán publicados progresivamente en GitHub
-* No cuentan con soporte formal (por ahora)
+* No cuentan con soporte formal (salvo contractual con Vidycs)
 
 ---
 
 ## Sobre Vidycs
 
-**Vidycs** es una consultora de software enfocada en:
+**Vidycs** es mi consultora de software enfocada en:
 
+* desarrollo
 * escalabilidad
 * mantenibilidad
 * seguridad
 * simplificación de sistemas
-
-Trascender nace como parte de esa experiencia práctica.
+* centralización y distribución de multi-sistemas
 
 ---
 
@@ -148,15 +150,7 @@ Trascender nace como parte de esa experiencia práctica.
 
 ---
 
-## Próximos pasos
 
-* Definición formal de cada `cf.*`
-* Estándares de integración
-* Documentación por módulo
-* Ejemplos en distintos lenguajes
-
----
-
-## Siguiente paso para tí
+## ¿Que puedes hacer ahora?
 
 [Partir con Archivos Públicos](https://github.com/jotacalderon90/cf.archivospublicos)
