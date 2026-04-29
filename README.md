@@ -22,7 +22,8 @@ Después de trabajar con múltiples instituciones y sistemas durante años, hay 
 * envío de correos
 * manejo de contenido
 * comunicación en tiempo real
-* auditoría y errores
+* auditoría
+* gestión de errores
 
 Trascender propone algo simple:
 
